@@ -165,7 +165,6 @@ pygments==2.18.0
     #   rich
 pyparsing==3.2.0
     # via matplotlib
-Python==3.9
 python-dateutil==2.9.0.post0
     # via
     #   matplotlib
